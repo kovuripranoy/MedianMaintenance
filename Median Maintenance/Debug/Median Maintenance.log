@@ -1,0 +1,6 @@
+﻿  Median Maintenance.cpp
+c:\users\yonarp\documents\visual studio 2015\projects\median maintenance\median maintenance\median maintenance.cpp(35): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\yonarp\documents\visual studio 2015\projects\median maintenance\median maintenance\median maintenance.cpp(117): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\yonarp\documents\visual studio 2015\projects\median maintenance\median maintenance\median maintenance.cpp(252): warning C4244: '+=': conversion from 'double' to 'long', possible loss of data
+  Median Maintenance.vcxproj -> C:\Users\Yonarp\Documents\Visual Studio 2015\Projects\Median Maintenance\Debug\Median Maintenance.exe
+  Median Maintenance.vcxproj -> C:\Users\Yonarp\Documents\Visual Studio 2015\Projects\Median Maintenance\Debug\Median Maintenance.pdb (Full PDB)
